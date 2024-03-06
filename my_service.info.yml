@@ -1,0 +1,6 @@
+name: My Service Module
+description: "Provides a custom content type for services."
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+autoload:
+  path: src
